@@ -1,0 +1,32 @@
+{
+  "name": "sv_trainers_all",
+  "description": "All Trainer cards from Scarlet & Violet series (Trainers, Supporters, Stadiums, Tools)",
+  "query": {
+    "Trainer": "on",
+    "Trainer [Pokémon Tool]": "on",
+    "Stadium": "on",
+    "Supporter": "on",
+    "Trainer [Technical Machine]": "on",
+    "Trainer [Rocket's Secret Machine]": "on",
+    "rsv10pt5": "on",
+    "zsv10pt5": "on",
+    "sv10": "on",
+    "sv09": "on",
+    "sv8pt5": "on",
+    "sv08": "on",
+    "sv07": "on",
+    "sv6pt5": "on",
+    "sv06": "on",
+    "sv05": "on",
+    "sv4pt5": "on",
+    "sv04": "on",
+    "sv3pt5": "on",
+    "sv03": "on",
+    "sv02": "on",
+    "sv01": "on",
+    "svp": "on",
+    "sort": "number"
+  },
+  "scrapeDetails": false,
+  "sampleSize": 10
+}

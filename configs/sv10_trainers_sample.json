@@ -1,0 +1,11 @@
+{
+  "name": "sv10_trainers",
+  "description": "Trainer cards from Scarlet & Violet - Destined Rivals (sv10) set",
+  "query": {
+    "Trainer": "on",
+    "sv10": "on",
+    "sort": "number"
+  },
+  "scrapeDetails": false,
+  "sampleSize": 5
+}

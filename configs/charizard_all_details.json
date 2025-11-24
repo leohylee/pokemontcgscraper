@@ -1,0 +1,10 @@
+{
+  "name": "charizard_all",
+  "description": "All Charizard cards with full details",
+  "query": {
+    "cardName": "charizard",
+    "sort": "number"
+  },
+  "scrapeDetails": true,
+  "scrapeAll": true
+}

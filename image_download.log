@@ -1,0 +1,798 @@
+=== Pokemon TCG Image Downloader ===
+
+Loading cards from results/trainer_cards_urls.json...
+Found 483 cards
+
+Created directory: images/trainers
+
+Download Summary:
+  Total cards: 483
+  With images: 483
+  Missing images: 0
+  Output directory: images/trainers
+  Concurrent downloads: 5
+
+Starting downloads...
+
+Batch 1/97 (1-5 of 483)
+[2] ✓ Downloaded: svp/114
+[5] ✓ Downloaded: svp/219
+[4] ✓ Downloaded: svp/150
+[3] ✓ Downloaded: svp/124
+[1] ✓ Downloaded: svp/45
+Progress: 5/483 (1%) | Success: 5, Failed: 0, Skipped: 0
+
+Batch 2/97 (6-10 of 483)
+[8] ✓ Downloaded: svp/222
+[6] ✓ Downloaded: svp/220
+[7] ✓ Downloaded: svp/221
+[10] ✓ Downloaded: svp/224
+[9] ✓ Downloaded: svp/223
+Progress: 10/483 (2%) | Success: 10, Failed: 0, Skipped: 0
+
+Batch 3/97 (11-15 of 483)
+[11] ✓ Downloaded: sv01/166
+[15] ✓ Downloaded: sv01/170
+[14] ✓ Downloaded: sv01/169
+[12] ✓ Downloaded: sv01/167
+[13] ✓ Downloaded: sv01/168
+Progress: 15/483 (3%) | Success: 15, Failed: 0, Skipped: 0
+
+Batch 4/97 (16-20 of 483)
+[20] ✓ Downloaded: sv01/175
+[18] ✓ Downloaded: sv01/173
+[19] ✓ Downloaded: sv01/174
+[16] ✓ Downloaded: sv01/171
+[17] ✓ Downloaded: sv01/172
+Progress: 20/483 (4%) | Success: 20, Failed: 0, Skipped: 0
+
+Batch 5/97 (21-25 of 483)
+[22] ✓ Downloaded: sv01/177
+[21] ✓ Downloaded: sv01/176
+[23] ✓ Downloaded: sv01/178
+[25] ✓ Downloaded: sv01/180
+[24] ✓ Downloaded: sv01/179
+Progress: 25/483 (5%) | Success: 25, Failed: 0, Skipped: 0
+
+Batch 6/97 (26-30 of 483)
+[26] ✓ Downloaded: sv01/181
+[29] ✓ Downloaded: sv01/184
+[27] ✓ Downloaded: sv01/182
+[28] ✓ Downloaded: sv01/183
+[30] ✓ Downloaded: sv01/185
+Progress: 30/483 (6%) | Success: 30, Failed: 0, Skipped: 0
+
+Batch 7/97 (31-35 of 483)
+[33] ✓ Downloaded: sv01/188
+[32] ✓ Downloaded: sv01/187
+[31] ✓ Downloaded: sv01/186
+[35] ✓ Downloaded: sv01/190
+[34] ✓ Downloaded: sv01/189
+Progress: 35/483 (7%) | Success: 35, Failed: 0, Skipped: 0
+
+Batch 8/97 (36-40 of 483)
+[39] ✓ Downloaded: sv01/194
+[38] ✓ Downloaded: sv01/193
+[36] ✓ Downloaded: sv01/191
+[40] ✓ Downloaded: sv01/195
+[37] ✓ Downloaded: sv01/192
+Progress: 40/483 (8%) | Success: 40, Failed: 0, Skipped: 0
+
+Batch 9/97 (41-45 of 483)
+[43] ✓ Downloaded: sv01/198
+[41] ✓ Downloaded: sv01/196
+[42] ✓ Downloaded: sv01/197
+[44] ✓ Downloaded: sv01/235
+[45] ✓ Downloaded: sv01/236
+Progress: 45/483 (9%) | Success: 45, Failed: 0, Skipped: 0
+
+Batch 10/97 (46-50 of 483)
+[50] ✓ Downloaded: sv01/241
+[48] ✓ Downloaded: sv01/239
+[47] ✓ Downloaded: sv01/238
+[49] ✓ Downloaded: sv01/240
+[46] ✓ Downloaded: sv01/237
+Progress: 50/483 (10%) | Success: 50, Failed: 0, Skipped: 0
+
+Batch 11/97 (51-55 of 483)
+[53] ✓ Downloaded: sv01/250
+[51] ✓ Downloaded: sv01/242
+[52] ✓ Downloaded: sv01/249
+[54] ✓ Downloaded: sv01/251
+[55] ✓ Downloaded: sv01/252
+Progress: 55/483 (11%) | Success: 55, Failed: 0, Skipped: 0
+
+Batch 12/97 (56-60 of 483)
+[58] ✓ Downloaded: sv02/171
+[59] ✓ Downloaded: sv02/172
+[56] ✓ Downloaded: sv01/255
+[60] ✓ Downloaded: sv02/173
+[57] ✓ Downloaded: sv01/256
+Progress: 60/483 (12%) | Success: 60, Failed: 0, Skipped: 0
+
+Batch 13/97 (61-65 of 483)
+[63] ✓ Downloaded: sv02/176
+[64] ✓ Downloaded: sv02/177
+[65] ✓ Downloaded: sv02/178
+[62] ✓ Downloaded: sv02/175
+[61] ✓ Downloaded: sv02/174
+Progress: 65/483 (13%) | Success: 65, Failed: 0, Skipped: 0
+
+Batch 14/97 (66-70 of 483)
+[67] ✓ Downloaded: sv02/180
+[66] ✓ Downloaded: sv02/179
+[69] ✓ Downloaded: sv02/182
+[70] ✓ Downloaded: sv02/183
+[68] ✓ Downloaded: sv02/181
+Progress: 70/483 (14%) | Success: 70, Failed: 0, Skipped: 0
+
+Batch 15/97 (71-75 of 483)
+[75] ✓ Downloaded: sv02/188
+[73] ✓ Downloaded: sv02/186
+[72] ✓ Downloaded: sv02/185
+[74] ✓ Downloaded: sv02/187
+[71] ✓ Downloaded: sv02/184
+Progress: 75/483 (16%) | Success: 75, Failed: 0, Skipped: 0
+
+Batch 16/97 (76-80 of 483)
+[76] ✓ Downloaded: sv02/189
+[80] ✓ Downloaded: sv02/251
+[78] ✓ Downloaded: sv02/249
+[77] ✓ Downloaded: sv02/248
+[79] ✓ Downloaded: sv02/250
+Progress: 80/483 (17%) | Success: 80, Failed: 0, Skipped: 0
+
+Batch 17/97 (81-85 of 483)
+[84] ✓ Downloaded: sv02/255
+[85] ✓ Downloaded: sv02/265
+[81] ✓ Downloaded: sv02/252
+[82] ✓ Downloaded: sv02/253
+[83] ✓ Downloaded: sv02/254
+Progress: 85/483 (18%) | Success: 85, Failed: 0, Skipped: 0
+
+Batch 18/97 (86-90 of 483)
+[87] ✓ Downloaded: sv02/267
+[89] ✓ Downloaded: sv02/269
+[86] ✓ Downloaded: sv02/266
+[88] ✓ Downloaded: sv02/268
+[90] ✓ Downloaded: sv02/270
+Progress: 90/483 (19%) | Success: 90, Failed: 0, Skipped: 0
+
+Batch 19/97 (91-95 of 483)
+[93] ✓ Downloaded: sv03/186
+[94] ✓ Downloaded: sv03/187
+[95] ✓ Downloaded: sv03/188
+[91] ✓ Downloaded: sv02/276
+[92] ✓ Downloaded: sv02/277
+Progress: 95/483 (20%) | Success: 95, Failed: 0, Skipped: 0
+
+Batch 20/97 (96-100 of 483)
+[96] ✓ Downloaded: sv03/189
+[97] ✓ Downloaded: sv03/190
+[99] ✓ Downloaded: sv03/192
+[98] ✓ Downloaded: sv03/191
+[100] ✓ Downloaded: sv03/193
+Progress: 100/483 (21%) | Success: 100, Failed: 0, Skipped: 0
+
+Batch 21/97 (101-105 of 483)
+[102] ✓ Downloaded: sv03/195
+[103] ✓ Downloaded: sv03/196
+[101] ✓ Downloaded: sv03/194
+[104] ✓ Downloaded: sv03/197
+[105] ✓ Downloaded: sv03/218
+Progress: 105/483 (22%) | Success: 105, Failed: 0, Skipped: 0
+
+Batch 22/97 (106-110 of 483)
+[107] ✓ Downloaded: sv03/220
+[106] ✓ Downloaded: sv03/219
+[109] ✓ Downloaded: sv03/226
+[108] ✓ Downloaded: sv03/221
+[110] ✓ Downloaded: sv03/227
+Progress: 110/483 (23%) | Success: 110, Failed: 0, Skipped: 0
+
+Batch 23/97 (111-115 of 483)
+[113] ✓ Downloaded: sv3pt5/153
+[115] ✓ Downloaded: sv3pt5/155
+[114] ✓ Downloaded: sv3pt5/154
+[112] ✓ Downloaded: sv3pt5/152
+[111] ✓ Downloaded: sv03/229
+Progress: 115/483 (24%) | Success: 115, Failed: 0, Skipped: 0
+
+Batch 24/97 (116-120 of 483)
+[119] ✓ Downloaded: sv3pt5/159
+[117] ✓ Downloaded: sv3pt5/157
+[116] ✓ Downloaded: sv3pt5/156
+[118] ✓ Downloaded: sv3pt5/158
+[120] ✓ Downloaded: sv04/159
+Progress: 120/483 (25%) | Success: 120, Failed: 0, Skipped: 0
+
+Batch 25/97 (121-125 of 483)
+[122] ✓ Downloaded: sv04/160
+[125] ✓ Downloaded: sv04/162
+[124] ✓ Downloaded: sv04/161
+[121] ✓ Downloaded: sv3pt5/160
+[123] ✓ Downloaded: sv3pt5/161
+Progress: 125/483 (26%) | Success: 125, Failed: 0, Skipped: 0
+
+Batch 26/97 (126-130 of 483)
+[128] ✓ Downloaded: sv3pt5/163
+[130] ✓ Downloaded: sv3pt5/164
+[126] ✓ Downloaded: sv3pt5/162
+[127] ✓ Downloaded: sv04/163
+[129] ✓ Downloaded: sv04/164
+Progress: 130/483 (27%) | Success: 130, Failed: 0, Skipped: 0
+
+Batch 27/97 (131-135 of 483)
+[134] ✓ Downloaded: sv04/167
+[132] ✓ Downloaded: sv04/165
+[133] ✓ Downloaded: sv04/166
+[131] ✓ Downloaded: sv3pt5/165
+[135] ✓ Downloaded: sv04/168
+Progress: 135/483 (28%) | Success: 135, Failed: 0, Skipped: 0
+
+Batch 28/97 (136-140 of 483)
+[139] ✓ Downloaded: sv04/172
+[137] ✓ Downloaded: sv04/170
+[136] ✓ Downloaded: sv04/169
+[138] ✓ Downloaded: sv04/171
+[140] ✓ Downloaded: sv04/173
+Progress: 140/483 (29%) | Success: 140, Failed: 0, Skipped: 0
+
+Batch 29/97 (141-145 of 483)
+[144] ✓ Downloaded: sv04/177
+[145] ✓ Downloaded: sv04/178
+[142] ✓ Downloaded: sv04/175
+[141] ✓ Downloaded: sv04/174
+[143] ✓ Downloaded: sv04/176
+Progress: 145/483 (30%) | Success: 145, Failed: 0, Skipped: 0
+
+Batch 30/97 (146-150 of 483)
+[148] ✓ Downloaded: sv04/181
+[149] ✓ Downloaded: sv3pt5/194
+[146] ✓ Downloaded: sv04/179
+[150] ✓ Downloaded: sv3pt5/195
+[147] ✓ Downloaded: sv04/180
+Progress: 150/483 (31%) | Success: 150, Failed: 0, Skipped: 0
+
+Batch 31/97 (151-155 of 483)
+[155] ✓ Downloaded: sv3pt5/206
+[152] ✓ Downloaded: sv3pt5/197
+[151] ✓ Downloaded: sv3pt5/196
+[153] ✓ Downloaded: sv3pt5/203
+[154] ✓ Downloaded: sv3pt5/204
+Progress: 155/483 (32%) | Success: 155, Failed: 0, Skipped: 0
+
+Batch 32/97 (156-160 of 483)
+[160] ✓ Downloaded: sv04/239
+[158] ✓ Downloaded: sv04/237
+[157] ✓ Downloaded: sv04/236
+[156] ✓ Downloaded: sv04/235
+[159] ✓ Downloaded: sv04/238
+Progress: 160/483 (33%) | Success: 160, Failed: 0, Skipped: 0
+
+Batch 33/97 (161-165 of 483)
+[162] ✓ Downloaded: sv04/241
+[165] ✓ Downloaded: sv04/244
+[163] ✓ Downloaded: sv04/242
+[161] ✓ Downloaded: sv04/240
+[164] ✓ Downloaded: sv04/243
+Progress: 165/483 (34%) | Success: 165, Failed: 0, Skipped: 0
+
+Batch 34/97 (166-170 of 483)
+[168] ✓ Downloaded: sv04/256
+[167] ✓ Downloaded: sv04/255
+[170] ✓ Downloaded: sv04/258
+[166] ✓ Downloaded: sv04/254
+[169] ✓ Downloaded: sv04/257
+Progress: 170/483 (35%) | Success: 170, Failed: 0, Skipped: 0
+
+Batch 35/97 (171-175 of 483)
+[175] ✓ Downloaded: sv4pt5/76
+[172] ✓ Downloaded: sv04/263
+[171] ✓ Downloaded: sv04/259
+[173] ✓ Downloaded: sv04/264
+[174] ✓ Downloaded: sv04/265
+Progress: 175/483 (36%) | Success: 175, Failed: 0, Skipped: 0
+
+Batch 36/97 (176-180 of 483)
+[180] ✓ Downloaded: sv4pt5/81
+[177] ✓ Downloaded: sv4pt5/78
+[176] ✓ Downloaded: sv4pt5/77
+[178] ✓ Downloaded: sv4pt5/79
+[179] ✓ Downloaded: sv4pt5/80
+Progress: 180/483 (37%) | Success: 180, Failed: 0, Skipped: 0
+
+Batch 37/97 (181-185 of 483)
+[185] ✓ Downloaded: sv4pt5/86
+[183] ✓ Downloaded: sv4pt5/84
+[182] ✓ Downloaded: sv4pt5/83
+[181] ✓ Downloaded: sv4pt5/82
+[184] ✓ Downloaded: sv4pt5/85
+Progress: 185/483 (38%) | Success: 185, Failed: 0, Skipped: 0
+
+Batch 38/97 (186-190 of 483)
+[188] ✓ Downloaded: sv4pt5/89
+[189] ✓ Downloaded: sv4pt5/90
+[186] ✓ Downloaded: sv4pt5/87
+[190] ✓ Downloaded: sv4pt5/91
+[187] ✓ Downloaded: sv4pt5/88
+Progress: 190/483 (39%) | Success: 190, Failed: 0, Skipped: 0
+
+Batch 39/97 (191-195 of 483)
+[192] ✓ Downloaded: sv4pt5/228
+[191] ✓ Downloaded: sv4pt5/227
+[193] ✓ Downloaded: sv4pt5/229
+[194] ✓ Downloaded: sv4pt5/230
+[195] ✓ Downloaded: sv4pt5/231
+Progress: 195/483 (40%) | Success: 195, Failed: 0, Skipped: 0
+
+Batch 40/97 (196-200 of 483)
+[200] ✓ Downloaded: sv4pt5/239
+[198] ✓ Downloaded: sv4pt5/237
+[196] ✓ Downloaded: sv4pt5/235
+[197] ✓ Downloaded: sv4pt5/236
+[199] ✓ Downloaded: sv4pt5/238
+Progress: 200/483 (41%) | Success: 200, Failed: 0, Skipped: 0
+
+Batch 41/97 (201-205 of 483)
+[203] ✓ Downloaded: sv05/142
+[204] ✓ Downloaded: sv05/143
+[205] ✓ Downloaded: sv05/144
+[202] ✓ Downloaded: sv05/141
+[201] ✓ Downloaded: sv05/140
+Progress: 205/483 (42%) | Success: 205, Failed: 0, Skipped: 0
+
+Batch 42/97 (206-210 of 483)
+[207] ✓ Downloaded: sv05/146
+[209] ✓ Downloaded: sv05/148
+[210] ✓ Downloaded: sv05/149
+[206] ✓ Downloaded: sv05/145
+[208] ✓ Downloaded: sv05/147
+Progress: 210/483 (43%) | Success: 210, Failed: 0, Skipped: 0
+
+Batch 43/97 (211-215 of 483)
+[211] ✓ Downloaded: sv05/150
+[213] ✓ Downloaded: sv05/152
+[215] ✓ Downloaded: sv05/154
+[212] ✓ Downloaded: sv05/151
+[214] ✓ Downloaded: sv05/153
+Progress: 215/483 (45%) | Success: 215, Failed: 0, Skipped: 0
+
+Batch 44/97 (216-220 of 483)
+[216] ✓ Downloaded: sv05/155
+[220] ✓ Downloaded: sv05/159
+[218] ✓ Downloaded: sv05/157
+[217] ✓ Downloaded: sv05/156
+[219] ✓ Downloaded: sv05/158
+Progress: 220/483 (46%) | Success: 220, Failed: 0, Skipped: 0
+
+Batch 45/97 (221-225 of 483)
+[221] ✓ Downloaded: sv05/160
+[223] ✓ Downloaded: sv05/198
+[222] ✓ Downloaded: sv05/197
+[224] ✓ Downloaded: sv05/199
+[225] ✓ Downloaded: sv05/200
+Progress: 225/483 (47%) | Success: 225, Failed: 0, Skipped: 0
+
+Batch 46/97 (226-230 of 483)
+[230] ✓ Downloaded: sv05/211
+[226] ✓ Downloaded: sv05/201
+[229] ✓ Downloaded: sv05/210
+[227] ✓ Downloaded: sv05/202
+[228] ✓ Downloaded: sv05/209
+Progress: 230/483 (48%) | Success: 230, Failed: 0, Skipped: 0
+
+Batch 47/97 (231-235 of 483)
+[235] ✓ Downloaded: sv06/145
+[233] ✓ Downloaded: sv06/143
+[232] ✓ Downloaded: sv06/142
+[234] ✓ Downloaded: sv06/144
+[231] ✓ Downloaded: sv05/212
+Progress: 235/483 (49%) | Success: 235, Failed: 0, Skipped: 0
+
+Batch 48/97 (236-240 of 483)
+[236] ✓ Downloaded: sv06/146
+[239] ✓ Downloaded: sv06/149
+[237] ✓ Downloaded: sv06/147
+[238] ✓ Downloaded: sv06/148
+[240] ✓ Downloaded: sv06/150
+Progress: 240/483 (50%) | Success: 240, Failed: 0, Skipped: 0
+
+Batch 49/97 (241-245 of 483)
+[243] ✓ Downloaded: sv06/153
+[244] ✓ Downloaded: sv06/154
+[241] ✓ Downloaded: sv06/151
+[245] ✓ Downloaded: sv06/155
+[242] ✓ Downloaded: sv06/152
+Progress: 245/483 (51%) | Success: 245, Failed: 0, Skipped: 0
+
+Batch 50/97 (246-250 of 483)
+[249] ✓ Downloaded: sv06/159
+[246] ✓ Downloaded: sv06/156
+[248] ✓ Downloaded: sv06/158
+[247] ✓ Downloaded: sv06/157
+[250] ✓ Downloaded: sv06/160
+Progress: 250/483 (52%) | Success: 250, Failed: 0, Skipped: 0
+
+Batch 51/97 (251-255 of 483)
+[253] ✓ Downloaded: sv06/163
+[251] ✓ Downloaded: sv06/161
+[252] ✓ Downloaded: sv06/162
+[254] ✓ Downloaded: sv06/164
+[255] ✓ Downloaded: sv06/165
+Progress: 255/483 (53%) | Success: 255, Failed: 0, Skipped: 0
+
+Batch 52/97 (256-260 of 483)
+[256] ✓ Downloaded: sv06/203
+[260] ✓ Downloaded: sv06/207
+[259] ✓ Downloaded: sv06/206
+[257] ✓ Downloaded: sv06/204
+[258] ✓ Downloaded: sv06/205
+Progress: 260/483 (54%) | Success: 260, Failed: 0, Skipped: 0
+
+Batch 53/97 (261-265 of 483)
+[263] ✓ Downloaded: sv06/217
+[262] ✓ Downloaded: sv06/209
+[264] ✓ Downloaded: sv06/218
+[261] ✓ Downloaded: sv06/208
+[265] ✓ Downloaded: sv06/219
+Progress: 265/483 (55%) | Success: 265, Failed: 0, Skipped: 0
+
+Batch 54/97 (266-270 of 483)
+[270] ✓ Downloaded: sv6pt5/54
+[266] ✓ Downloaded: sv06/220
+[268] ✓ Downloaded: sv06/224
+[269] ✓ Downloaded: sv06/225
+[267] ✓ Downloaded: sv06/223
+Progress: 270/483 (56%) | Success: 270, Failed: 0, Skipped: 0
+
+Batch 55/97 (271-275 of 483)
+[273] ✓ Downloaded: sv6pt5/57
+[271] ✓ Downloaded: sv6pt5/55
+[275] ✓ Downloaded: sv6pt5/59
+[274] ✓ Downloaded: sv6pt5/58
+[272] ✓ Downloaded: sv6pt5/56
+Progress: 275/483 (57%) | Success: 275, Failed: 0, Skipped: 0
+
+Batch 56/97 (276-280 of 483)
+[280] ✓ Downloaded: sv6pt5/64
+[277] ✓ Downloaded: sv6pt5/61
+[278] ✓ Downloaded: sv6pt5/62
+[276] ✓ Downloaded: sv6pt5/60
+[279] ✓ Downloaded: sv6pt5/63
+Progress: 280/483 (58%) | Success: 280, Failed: 0, Skipped: 0
+
+Batch 57/97 (281-285 of 483)
+[281] ✓ Downloaded: sv6pt5/86
+[283] ✓ Downloaded: sv6pt5/88
+[282] ✓ Downloaded: sv6pt5/87
+[285] ✓ Downloaded: sv6pt5/94
+[284] ✓ Downloaded: sv6pt5/89
+Progress: 285/483 (59%) | Success: 285, Failed: 0, Skipped: 0
+
+Batch 58/97 (286-290 of 483)
+[288] ✓ Downloaded: sv07/129
+[290] ✓ Downloaded: sv07/131
+[289] ✓ Downloaded: sv07/130
+[286] ✓ Downloaded: sv6pt5/96
+[287] ✓ Downloaded: sv6pt5/97
+Progress: 290/483 (60%) | Success: 290, Failed: 0, Skipped: 0
+
+Batch 59/97 (291-295 of 483)
+[294] ✓ Downloaded: sv07/135
+[291] ✓ Downloaded: sv07/132
+[295] ✓ Downloaded: sv07/136
+[293] ✓ Downloaded: sv07/134
+[292] ✓ Downloaded: sv07/133
+Progress: 295/483 (61%) | Success: 295, Failed: 0, Skipped: 0
+
+Batch 60/97 (296-300 of 483)
+[298] ✓ Downloaded: sv07/139
+[299] ✓ Downloaded: sv07/140
+[296] ✓ Downloaded: sv07/137
+[297] ✓ Downloaded: sv07/138
+[300] ✓ Downloaded: sv07/141
+Progress: 300/483 (62%) | Success: 300, Failed: 0, Skipped: 0
+
+Batch 61/97 (301-305 of 483)
+[303] ✓ Downloaded: sv07/164
+[301] ✓ Downloaded: sv07/142
+[304] ✓ Downloaded: sv07/165
+[305] ✓ Downloaded: sv07/166
+[302] ✓ Downloaded: sv07/163
+Progress: 305/483 (63%) | Success: 305, Failed: 0, Skipped: 0
+
+Batch 62/97 (306-310 of 483)
+[310] ✓ Downloaded: sv08/162
+[309] ✓ Downloaded: sv07/175
+[307] ✓ Downloaded: sv07/172
+[308] ✓ Downloaded: sv07/174
+[306] ✓ Downloaded: sv07/171
+Progress: 310/483 (64%) | Success: 310, Failed: 0, Skipped: 0
+
+Batch 63/97 (311-315 of 483)
+[315] ✓ Downloaded: sv08/167
+[311] ✓ Downloaded: sv08/163
+[312] ✓ Downloaded: sv08/164
+[314] ✓ Downloaded: sv08/166
+[313] ✓ Downloaded: sv08/165
+Progress: 315/483 (65%) | Success: 315, Failed: 0, Skipped: 0
+
+Batch 64/97 (316-320 of 483)
+[316] ✓ Downloaded: sv08/168
+[318] ✓ Downloaded: sv08/170
+[317] ✓ Downloaded: sv08/169
+[319] ✓ Downloaded: sv08/171
+[320] ✓ Downloaded: sv08/172
+Progress: 320/483 (66%) | Success: 320, Failed: 0, Skipped: 0
+
+Batch 65/97 (321-325 of 483)
+[324] ✓ Downloaded: sv08/176
+[321] ✓ Downloaded: sv08/173
+[325] ✓ Downloaded: sv08/177
+[323] ✓ Downloaded: sv08/175
+[322] ✓ Downloaded: sv08/174
+Progress: 325/483 (67%) | Success: 325, Failed: 0, Skipped: 0
+
+Batch 66/97 (326-330 of 483)
+[328] ✓ Downloaded: sv08/180
+[330] ✓ Downloaded: sv08/182
+[329] ✓ Downloaded: sv08/181
+[326] ✓ Downloaded: sv08/178
+[327] ✓ Downloaded: sv08/179
+Progress: 330/483 (68%) | Success: 330, Failed: 0, Skipped: 0
+
+Batch 67/97 (331-335 of 483)
+[334] ✓ Downloaded: sv08/186
+[332] ✓ Downloaded: sv08/184
+[331] ✓ Downloaded: sv08/183
+[333] ✓ Downloaded: sv08/185
+[335] ✓ Downloaded: sv08/187
+Progress: 335/483 (69%) | Success: 335, Failed: 0, Skipped: 0
+
+Batch 68/97 (336-340 of 483)
+[340] ✓ Downloaded: sv08/230
+[337] ✓ Downloaded: sv08/189
+[338] ✓ Downloaded: sv08/190
+[336] ✓ Downloaded: sv08/188
+[339] ✓ Downloaded: sv08/229
+Progress: 340/483 (70%) | Success: 340, Failed: 0, Skipped: 0
+
+Batch 69/97 (341-345 of 483)
+[341] ✓ Downloaded: sv08/231
+[345] ✓ Downloaded: sv08/235
+[342] ✓ Downloaded: sv08/232
+[343] ✓ Downloaded: sv08/233
+[344] ✓ Downloaded: sv08/234
+Progress: 345/483 (71%) | Success: 345, Failed: 0, Skipped: 0
+
+Batch 70/97 (346-350 of 483)
+[346] ✓ Downloaded: sv08/243
+[350] ✓ Downloaded: sv08/249
+[349] ✓ Downloaded: sv08/246
+[348] ✓ Downloaded: sv08/245
+[347] ✓ Downloaded: sv08/244
+Progress: 350/483 (72%) | Success: 350, Failed: 0, Skipped: 0
+
+Batch 71/97 (351-355 of 483)
+[353] ✓ Downloaded: sv8pt5/93
+[355] ✓ Downloaded: sv8pt5/95
+[351] ✓ Downloaded: sv08/250
+[352] ✓ Downloaded: sv08/251
+[354] ✓ Downloaded: sv8pt5/94
+Progress: 355/483 (73%) | Success: 355, Failed: 0, Skipped: 0
+
+Batch 72/97 (356-360 of 483)
+[359] ✓ Downloaded: sv8pt5/99
+[357] ✓ Downloaded: sv8pt5/97
+[358] ✓ Downloaded: sv8pt5/98
+[356] ✓ Downloaded: sv8pt5/96
+[360] ✓ Downloaded: sv8pt5/100
+Progress: 360/483 (75%) | Success: 360, Failed: 0, Skipped: 0
+
+Batch 73/97 (361-365 of 483)
+[364] ✓ Downloaded: sv8pt5/104
+[361] ✓ Downloaded: sv8pt5/101
+[362] ✓ Downloaded: sv8pt5/102
+[363] ✓ Downloaded: sv8pt5/103
+[365] ✓ Downloaded: sv8pt5/105
+Progress: 365/483 (76%) | Success: 365, Failed: 0, Skipped: 0
+
+Batch 74/97 (366-370 of 483)
+[367] ✓ Downloaded: sv8pt5/107
+[369] ✓ Downloaded: sv8pt5/109
+[368] ✓ Downloaded: sv8pt5/108
+[366] ✓ Downloaded: sv8pt5/106
+[370] ✓ Downloaded: sv8pt5/110
+Progress: 370/483 (77%) | Success: 370, Failed: 0, Skipped: 0
+
+Batch 75/97 (371-375 of 483)
+[375] ✓ Downloaded: sv8pt5/115
+[374] ✓ Downloaded: sv8pt5/114
+[371] ✓ Downloaded: sv8pt5/111
+[373] ✓ Downloaded: sv8pt5/113
+[372] ✓ Downloaded: sv8pt5/112
+Progress: 375/483 (78%) | Success: 375, Failed: 0, Skipped: 0
+
+Batch 76/97 (376-380 of 483)
+[380] ✓ Downloaded: sv8pt5/120
+[379] ✓ Downloaded: sv8pt5/119
+[376] ✓ Downloaded: sv8pt5/116
+[378] ✓ Downloaded: sv8pt5/118
+[377] ✓ Downloaded: sv8pt5/117
+Progress: 380/483 (79%) | Success: 380, Failed: 0, Skipped: 0
+
+Batch 77/97 (381-385 of 483)
+[382] ✓ Downloaded: sv8pt5/122
+[384] ✓ Downloaded: sv8pt5/124
+[385] ✓ Downloaded: sv8pt5/125
+[381] ✓ Downloaded: sv8pt5/121
+[383] ✓ Downloaded: sv8pt5/123
+Progress: 385/483 (80%) | Success: 385, Failed: 0, Skipped: 0
+
+Batch 78/97 (386-390 of 483)
+[388] ✓ Downloaded: sv8pt5/128
+[389] ✓ Downloaded: sv8pt5/129
+[386] ✓ Downloaded: sv8pt5/126
+[390] ✓ Downloaded: sv8pt5/130
+[387] ✓ Downloaded: sv8pt5/127
+Progress: 390/483 (81%) | Success: 390, Failed: 0, Skipped: 0
+
+Batch 79/97 (391-395 of 483)
+[392] ✓ Downloaded: sv8pt5/132
+[391] ✓ Downloaded: sv8pt5/131
+[394] ✓ Downloaded: sv8pt5/134
+[393] ✓ Downloaded: sv8pt5/133
+[395] ✓ Downloaded: sv8pt5/135
+Progress: 395/483 (82%) | Success: 395, Failed: 0, Skipped: 0
+
+Batch 80/97 (396-400 of 483)
+[398] ✓ Downloaded: sv8pt5/138
+[396] ✓ Downloaded: sv8pt5/136
+[400] ✓ Downloaded: sv8pt5/140
+[399] ✓ Downloaded: sv8pt5/139
+[397] ✓ Downloaded: sv8pt5/137
+Progress: 400/483 (83%) | Success: 400, Failed: 0, Skipped: 0
+
+Batch 81/97 (401-405 of 483)
+[404] ✓ Downloaded: sv8pt5/170
+[405] ✓ Downloaded: sv8pt5/171
+[401] ✓ Downloaded: sv8pt5/141
+[402] ✓ Downloaded: sv8pt5/142
+[403] ✓ Downloaded: sv8pt5/143
+Progress: 405/483 (84%) | Success: 405, Failed: 0, Skipped: 0
+
+Batch 82/97 (406-410 of 483)
+[410] ✓ Downloaded: sv09/142
+[406] ✓ Downloaded: sv8pt5/172
+[409] ✓ Downloaded: sv8pt5/175
+[408] ✓ Downloaded: sv8pt5/174
+[407] ✓ Downloaded: sv8pt5/173
+Progress: 410/483 (85%) | Success: 410, Failed: 0, Skipped: 0
+
+Batch 83/97 (411-415 of 483)
+[413] ✓ Downloaded: sv09/145
+[414] ✓ Downloaded: sv09/146
+[411] ✓ Downloaded: sv09/143
+[412] ✓ Downloaded: sv09/144
+[415] ✓ Downloaded: sv09/147
+Progress: 415/483 (86%) | Success: 415, Failed: 0, Skipped: 0
+
+Batch 84/97 (416-420 of 483)
+[420] ✓ Downloaded: sv09/152
+[419] ✓ Downloaded: sv09/151
+[416] ✓ Downloaded: sv09/148
+[418] ✓ Downloaded: sv09/150
+[417] ✓ Downloaded: sv09/149
+Progress: 420/483 (87%) | Success: 420, Failed: 0, Skipped: 0
+
+Batch 85/97 (421-425 of 483)
+[425] ✓ Downloaded: sv09/157
+[424] ✓ Downloaded: sv09/156
+[422] ✓ Downloaded: sv09/154
+[423] ✓ Downloaded: sv09/155
+[421] ✓ Downloaded: sv09/153
+Progress: 425/483 (88%) | Success: 425, Failed: 0, Skipped: 0
+
+Batch 86/97 (426-430 of 483)
+[426] ✓ Downloaded: sv09/158
+[428] ✓ Downloaded: sv09/180
+[430] ✓ Downloaded: sv10/161
+[429] ✓ Downloaded: sv09/181
+[427] ✓ Downloaded: sv09/179
+Progress: 430/483 (89%) | Success: 430, Failed: 0, Skipped: 0
+
+Batch 87/97 (431-435 of 483)
+[431] ✓ Downloaded: sv10/162
+[432] ✓ Downloaded: sv10/163
+[435] ✓ Downloaded: sv10/166
+[434] ✓ Downloaded: sv10/165
+[433] ✓ Downloaded: sv10/164
+Progress: 435/483 (90%) | Success: 435, Failed: 0, Skipped: 0
+
+Batch 88/97 (436-440 of 483)
+[440] ✓ Downloaded: sv10/171
+[436] ✓ Downloaded: sv10/167
+[438] ✓ Downloaded: sv10/169
+[439] ✓ Downloaded: sv10/170
+[437] ✓ Downloaded: sv10/168
+Progress: 440/483 (91%) | Success: 440, Failed: 0, Skipped: 0
+
+Batch 89/97 (441-445 of 483)
+[445] ✓ Downloaded: sv10/176
+[441] ✓ Downloaded: sv10/172
+[442] ✓ Downloaded: sv10/173
+[444] ✓ Downloaded: sv10/175
+[443] ✓ Downloaded: sv10/174
+Progress: 445/483 (92%) | Success: 445, Failed: 0, Skipped: 0
+
+Batch 90/97 (446-450 of 483)
+[450] ✓ Downloaded: sv10/181
+[448] ✓ Downloaded: sv10/179
+[446] ✓ Downloaded: sv10/177
+[447] ✓ Downloaded: sv10/178
+[449] ✓ Downloaded: sv10/180
+Progress: 450/483 (93%) | Success: 450, Failed: 0, Skipped: 0
+
+Batch 91/97 (451-455 of 483)
+[451] ✓ Downloaded: sv10/220
+[454] ✓ Downloaded: sv10/223
+[455] ✓ Downloaded: sv10/224
+[453] ✓ Downloaded: sv10/222
+[452] ✓ Downloaded: sv10/221
+Progress: 455/483 (94%) | Success: 455, Failed: 0, Skipped: 0
+
+Batch 92/97 (456-460 of 483)
+[458] ✓ Downloaded: sv10/227
+[460] ✓ Downloaded: sv10/237
+[457] ✓ Downloaded: sv10/226
+[456] ✓ Downloaded: sv10/225
+[459] ✓ Downloaded: sv10/236
+Progress: 460/483 (95%) | Success: 460, Failed: 0, Skipped: 0
+
+Batch 93/97 (461-465 of 483)
+[464] ✓ Downloaded: zsv10pt5/79
+[465] ✓ Downloaded: zsv10pt5/80
+[462] ✓ Downloaded: sv10/243
+[461] ✓ Downloaded: sv10/238
+[463] ✓ Downloaded: sv10/244
+Progress: 465/483 (96%) | Success: 465, Failed: 0, Skipped: 0
+
+Batch 94/97 (466-470 of 483)
+[468] ✓ Downloaded: zsv10pt5/83
+[469] ✓ Downloaded: zsv10pt5/84
+[466] ✓ Downloaded: zsv10pt5/81
+[467] ✓ Downloaded: zsv10pt5/82
+[470] ✓ Downloaded: zsv10pt5/85
+Progress: 470/483 (97%) | Success: 470, Failed: 0, Skipped: 0
+
+Batch 95/97 (471-475 of 483)
+[475] ✓ Downloaded: rsv10pt5/80
+[471] ✓ Downloaded: zsv10pt5/162
+[474] ✓ Downloaded: rsv10pt5/79
+[473] ✓ Downloaded: zsv10pt5/170
+[472] ✓ Downloaded: zsv10pt5/163
+Progress: 475/483 (98%) | Success: 475, Failed: 0, Skipped: 0
+
+Batch 96/97 (476-480 of 483)
+[476] ✓ Downloaded: rsv10pt5/81
+[478] ✓ Downloaded: rsv10pt5/83
+[479] ✓ Downloaded: rsv10pt5/84
+[480] ✓ Downloaded: rsv10pt5/85
+[477] ✓ Downloaded: rsv10pt5/82
+Progress: 480/483 (99%) | Success: 480, Failed: 0, Skipped: 0
+
+Batch 97/97 (481-483 of 483)
+[483] ✓ Downloaded: rsv10pt5/171
+[482] ✓ Downloaded: rsv10pt5/164
+[481] ✓ Downloaded: rsv10pt5/163
+Progress: 483/483 (100%) | Success: 483, Failed: 0, Skipped: 0
+
+=== Download Complete ===
+Total: 483 images
+✓ Successfully downloaded: 483
+⊘ Already existed (skipped): 0
+✗ Failed: 0
+Time: 0m 55s
+Location: /Users/leo/Projects/pokemontcgscraper/images/trainers
+Average: 0.11s per image
